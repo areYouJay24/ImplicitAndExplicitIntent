@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicit And Explicit</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="implicit_amp_explicit_intent"><![CDATA[Implicit & Explicit Intent]]></string>
+    <string name="enter_url">Enter URL</string>
+    <string name="submit">Submit</string>
+    <string name="your_name">Your Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
