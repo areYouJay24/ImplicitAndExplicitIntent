@@ -5,6 +5,6 @@
     <string name="implicit_amp_explicit_intent"><![CDATA[Implicit & Explicit Intent]]></string>
     <string name="enter_url">Enter URL</string>
     <string name="submit">Submit</string>
-    <string name="yourName">Your Name</string>
+    <string name="your_name">Your Name</string>
     <string name="enter_your_name">Enter Your Name</string>
 </resources>
